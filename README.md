@@ -2,6 +2,6 @@
 
 * postgresql account: username: root - pw: root - port: 5432
 
-* Udemy course: https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/learn/lecture/25820662#questions
+* Udemy course: https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/learn/lecture/39988970#questions
 
-* source: https://github.com/techschool/simplebankj
+* source: https://github.com/techschool/simplebank
