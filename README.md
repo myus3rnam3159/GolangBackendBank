@@ -1,6 +1,6 @@
 * db design tool: https://dbdiagram.io/d/GolangBankBackend-65632b773be1495787bf3fa2
 
-* Udemy course: https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/learn/lecture/25822274#questions
+* Udemy course: https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/learn/lecture/25822274#questionsh
 
 * source: https://github.com/techschool/simplebank
 
