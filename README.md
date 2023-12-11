@@ -82,3 +82,10 @@
 
 => trong db được tạo có bảng schema_migrations chứa phiên bản migration gấn nhất
 
+*** Cài sqlc ***
+
+* Ubuntu: sudo snap install sqlc
+
+* Github: https://github.com/sqlc-dev/sqlc
+
+* Config docs: https://docs.sqlc.dev/en/latest/reference/config.html#
