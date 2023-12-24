@@ -1,6 +1,6 @@
 * db design tool: https://dbdiagram.io/d/GolangBankBackend-65632b773be1495787bf3fa2
 
-* Udemy course: https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/learn/lecture/25822274#questionsh
+* Udemy course: https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/learn/lecture/25822276#overview
 
 * source: https://github.com/techschool/simplebank
 
@@ -89,3 +89,7 @@
 * Github: https://github.com/sqlc-dev/sqlc
 
 * Config docs: https://docs.sqlc.dev/en/latest/reference/config.html#
+
+*** Cài golang lib pq ***
+
+* go get github.com/lib/pq
