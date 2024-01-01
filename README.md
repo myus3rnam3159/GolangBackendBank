@@ -93,3 +93,7 @@
 *** Cài golang lib pq ***
 
 * go get github.com/lib/pq
+
+*** Install go testify ***
+
+* go get github.com/stretchr/testify
